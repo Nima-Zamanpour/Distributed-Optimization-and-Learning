@@ -5,7 +5,7 @@ This project aims to let agents reach a consensus on where to take a pre-determi
 
 ## Results
 
-<img src="gifs/admm.gif" width="400">
-<img src="gifs/centralized.gif" width="400">
+<img src="gifs/admm.gif" width="400"> &nbsp; &nbsp;
+<img src="gifs/centralized.gif" width="400"> &nbsp; &nbsp;
 <img src="gifs/penalty_dual.gif" width="400">
 <img src="gifs/output.png" width="400">
