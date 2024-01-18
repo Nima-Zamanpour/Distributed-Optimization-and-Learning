@@ -4,8 +4,8 @@ This project aims to let agents reach a consensus on where to take a pre-determi
 
 
 ## Results
-![Alt text describing the GIF](gifs/admm.gif)
-![Alt text describing the GIF](gifs/centralized.gif)
-![Alt text describing the GIF](gifs/penalty_dual.gif)
-![Alt text describing the GIF](gifs/output.png )
+
 <img src="gifs/admm.gif" width="400">
+<img src="gifs/centralized.gif" width="400">
+<img src="gifs/penalty_dual.gif" width="400">
+<img src="gifs/output.png" width="400">
